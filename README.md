@@ -50,3 +50,10 @@ Key fields included:
 - Timestamp
 
 ![Screenshot](Data-pane.png)
+
+## Data Enrichment
+
+The original dataset did not contain downtime, uptime, business KPIs, so I created calculated fields to support the analysis.
+
+### Downtime
+![Screenshot](Data-pane.png)
