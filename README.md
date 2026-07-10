@@ -78,11 +78,6 @@ I used clear chart titles, data labels, and business insight annotations were in
 
 To interact with the dashboard, click [here](https://public.tableau.com/views/telemetrydashboard_17835243308940/Dashboard1?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
-# Findings
-
-Based on your dashboard, these are the **main findings** you should include in your case study. I've written them in simple, professional English.
-
----
 
 # Key Findings
 
