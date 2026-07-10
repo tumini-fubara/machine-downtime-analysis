@@ -33,8 +33,6 @@ Check data here https://www.theforage.com/virtual-experience/io9DzWKe3PTsiS6GG/d
 - Imported the JSON telemetry dataset into Tableau
 - Verified all schema levels during import to ensure the complete dataset was loaded
 
-![Screenshot](tableau-datasource.png)
-
 ## Data Exploration
 
 Before creating visualizations, I explored the dataset to understand its structure and identify the fields required for the analysis.
@@ -136,3 +134,5 @@ The average operating temperature remained around 24.99°C across the dataset, w
 
 - Finally, I would improve the dashboard by adding time-based trend analysis to track how machine performance changes over time and help predict future equipment failures.
 
+![Screenshot](THANKS.jpg)
+Thank you for following through.
