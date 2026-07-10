@@ -71,3 +71,13 @@ The original dataset did not contain downtime, uptime, business KPIs, so I creat
 ![Screenshot](Average-temperature.png)
 
 # Analysis and Visualization
+
+I created an interactive Tableau dashboard to make the data easy to understand. The dashboard includes KPI cards that show the overall performance of the machines, such as total uptime, total downtime, uptime rate, downtime rate, and average temperature. I also used bar charts to compare downtime by factory, machine type, section, and country. To make the dashboard more understandable, I set the Factory chart as a filter, so selecting a factory updates other charts to show only data for that location. 
+
+I used clear chart titles, data labels, and business insight annotations were included so that both technical and non-technical stakeholders can quickly understand the findings and make decisions
+
+![Screenshot](machine-downtime-analysis-dashboard.png)
+
+To interact with the dashboard, click [here](https://public.tableau.com/views/telemetrydashboard_17835243308940/Dashboard1?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
+
