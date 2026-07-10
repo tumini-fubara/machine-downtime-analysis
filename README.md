@@ -35,3 +35,16 @@ Check data here https://www.theforage.com/virtual-experience/io9DzWKe3PTsiS6GG/d
 
 ![Screenshot](tableau-datasource.png)
 
+## Data Exploration
+
+Before creating visualizations, I explored the dataset to understand its structure and identify the fields required for the analysis.
+
+Key fields included:
+
+Factory
+Country
+Device Type
+Section
+Status
+Temperature
+Timestamp
