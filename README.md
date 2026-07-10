@@ -70,4 +70,4 @@ The original dataset did not contain downtime, uptime, business KPIs, so I creat
 #### Average Temperature
 ![Screenshot](Average-temperature.png)
 
-
+# Analysis and Visualization
