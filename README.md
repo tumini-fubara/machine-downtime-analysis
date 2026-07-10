@@ -80,4 +80,34 @@ I used clear chart titles, data labels, and business insight annotations were in
 
 To interact with the dashboard, click [here](https://public.tableau.com/views/telemetrydashboard_17835243308940/Dashboard1?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
+# Findings
 
+Based on your dashboard, these are the **main findings** you should include in your case study. I've written them in simple, professional English.
+
+---
+
+# Key Findings
+
+### 1. Japan recorded the highest number of machine breakdowns
+
+The two factories in Japan accounted for over 85% of all recorded downtime during May 2021, among them is Daikibo and Seiko Factory which experienced the highest number of breakdowns, making it a high risk location
+
+### 2. Laser equipment caused most machine failures
+
+Laser Welders and Laser Cutters were responsible for more than 85% of all downtime events, this suggests that these machine types require closer monitoring and more frequent maintenance than other equipment
+
+### 3. Machine failures were concentrated in specific sections
+
+Most breakdowns occurred in Sections 3 and 4, while Sections 1 and 2 experienced little to no downtime, this indicates that operational conditions or maintenance practices may differ between sections
+
+### 4. Germany and China experienced very few breakdowns
+
+Compared to Japan, the factories in Germany and China recorded significantly fewer machine failures, their low downtime suggests that current maintenance practices and operating conditions at these locations may be more effective
+
+### 5. Overall machine reliability remained high
+
+Despite the concentration of failures in a few locations and machine types, the overall uptime rate was 99.94%, while the downtime rate was only 0.06%. This shows that most machines operated normally throughout the month
+
+### 6. Machine temperature did not explain equipment failures
+
+The average operating temperature remained around 24.99°C across the dataset, with very little variation between machines. Because the temperature values were almost identical, no meaningful relationship between temperature and machine breakdowns could be identified
