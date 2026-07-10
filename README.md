@@ -65,7 +65,7 @@ The original dataset did not contain downtime, uptime, business KPIs, so I creat
 ![Screenshot](total-downtime.png)
 
 #### Uptime Rate
-![Screenshot](uptime rate.png)
+![Screenshot](uptimerate.png)
 
 #### Average Temperature
 ![Screenshot](Average-temperature.png)
