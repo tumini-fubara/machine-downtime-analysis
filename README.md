@@ -1,5 +1,6 @@
 # Machine Downtime Analysis
-Cover Image
+![Screenshot](machine-downtime-analysis-dashboard.png)
+
 # Introduction
 Every day, hundreds of industrial machines operate across Daikibo's manufacturing facilities, producing thousands of components that keep production running. Behind these operations, each machine continuously generates telemetry data that captures its health and performance. While this stream of data provides a detailed view of factory operations, important questions remain: Which factories experience the most machine failures? Which machines are most prone to breaking down?
 
