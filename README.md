@@ -30,5 +30,8 @@ Check data here https://www.theforage.com/virtual-experience/io9DzWKe3PTsiS6GG/d
 # Methodology
 ## Data Import
 
-Imported the JSON telemetry dataset into Tableau
-Verified all schema levels during import to ensure the complete dataset was loaded
+- Imported the JSON telemetry dataset into Tableau
+- Verified all schema levels during import to ensure the complete dataset was loaded
+
+https://github.com/tumini-fubara/machine-downtime-analysis/blob/main/tableau-datasource
+
