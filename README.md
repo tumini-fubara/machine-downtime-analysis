@@ -41,10 +41,12 @@ Before creating visualizations, I explored the dataset to understand its structu
 
 Key fields included:
 
-Factory
-Country
-Device Type
-Section
-Status
-Temperature
-Timestamp
+- Factory
+- Country
+- Device Type
+- Section
+- Status
+- Temperature
+- Timestamp
+
+![Screenshot](Data-pane.png)
