@@ -110,4 +110,4 @@ Despite the concentration of failures in a few locations and machine types, the 
 
 ### 6. Machine temperature did not explain equipment failures
 
-The average operating temperature remained around 24.99°C across the dataset, with very little variation between machines. Because the temperature values were almost identical, no meaningful relationship between temperature and machine breakdowns could be identified
+The average operating temperature remained around 24.99°C across the dataset, with very little difference between machines. Because the temperature values were almost identical, no meaningful relationship between temperature and machine breakdowns could be identified
