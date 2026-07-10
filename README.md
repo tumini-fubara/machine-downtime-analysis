@@ -111,3 +111,28 @@ Despite the concentration of failures in a few locations and machine types, the 
 ### 6. Machine temperature did not explain equipment failures
 
 The average operating temperature remained around 24.99°C across the dataset, with very little difference between machines. Because the temperature values were almost identical, no meaningful relationship between temperature and machine breakdowns could be identified
+
+# Recommendations
+
+- Based on the findings, Daikibo should focus its maintenance efforts on the Seiko Factory, since it recorded the highest number of machine breakdowns. The company should also inspect Laser Welders and Laser Cutters more often because they caused most of the downtime.
+
+- Extra attention should be given to Sections 3 and 4, where most machine failures happened. Finding and fixing the root causes in these sections can help reduce future breakdowns.
+
+- Although Germany and China recorded few machine failures, the company should continue regular maintenance to keep machine performance at the same high level.
+
+# Limitations
+
+- This analysis used only one month of telemetry data (May 2021), so it cannot show longterm machine performance or seasonal trends.
+
+- The dataset also contained very little change in machine temperature, making it difficult to understand whether temperature affected machine breakdowns.
+
+- In addition, the timestamp data could not be fully converted into calendar dates during the analysis. Because of this, a detailed trend analysis over time could not be included.
+
+# Future Improvements
+
+- If more data becomes available, I would analyze several months or years of machine telemetry to identify long-term trends and recurring failure patterns.
+
+- I would also include more machine information, such as maintenance history, machine age, and repair records, to better understand why certain machines fail more often.
+
+- Finally, I would improve the dashboard by adding time-based trend analysis to track how machine performance changes over time and help predict future equipment failures.
+
