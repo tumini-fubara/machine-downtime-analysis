@@ -55,5 +55,19 @@ Key fields included:
 
 The original dataset did not contain downtime, uptime, business KPIs, so I created calculated fields to support the analysis.
 
-### Downtime
-![Screenshot](Data-pane.png)
+#### Total Downtime
+![Screenshot](total-downtime.png)
+
+#### Downtime Rate
+![Screenshot](downtime-rate.png)
+
+#### Total Uptime
+![Screenshot](total-downtime.png)
+
+#### Uptime Rate
+![Screenshot](uptime rate.png)
+
+#### Average Temperature
+![Screenshot](Average-temperature.png)
+
+
